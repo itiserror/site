@@ -60,6 +60,8 @@ cout<<"Начальная вершина >> ";
 cin>>start;
 cout<<"Конечная вершина >> ";
 cin>>end;
+cout<<"kdhek";
+cout<<"Новое изменение файла"
 
 vector<int> res=Dijkstra(GR, start-1,end-1);
 cout<<"Маршрут: ";
